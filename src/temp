@@ -1,0 +1,4 @@
+This presentation introduces a new frontend bank management web application built using ReactJS, a leading JavaScript framework, 
+along with a suite of supporting technologies to provide a robust and user-friendly banking platform. 
+The application leverages HTML, CSS, and JavaScript for core functionality, complemented by Bootstrap and React libraries (such as Material-UI or Ant Design)
+to enhance the user interface and streamline development.
